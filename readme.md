@@ -19,17 +19,32 @@
 
 - Data type is the type of the value you are going to assigned
 - There are total of 6 datatypes in javascript
-    1. undefined  - typeof instance (undefined)
-    2. Boolean  - typeof instance (boolean)
-    3. Number - typeof instance (number)
-    4. String - typeof instance (string)   
-    5. BigInt - typeof instance (bigint)
-    6. Symbol - typeof instance (symbol)
+  1. undefined - typeof instance (undefined)
+  2. Boolean - typeof instance (boolean)
+  3. Number - typeof instance (number)
+  4. String - typeof instance (string)
+  5. BigInt - typeof instance (bigint)
+  6. Symbol - typeof instance (symbol)
 - For checking the type of the variable
-    1. typeof(variableName)
+  1. typeof(variableName)
 
+## 🚀 Interview Question - 1 (Null vs Undefined)
 
+- null
 
+  - when variable declared and the value assined is null.
+  - object type
+
+- undefined
+  - when variable declared and the value is not assigned
+  - undefined type
+
+## 🚀 Interview Question - 2 (NaN)
+
+- Full form - not a number
+- NaN is a property of global object 
+    - In other words, it is a variable in a global scope.
+    - The initial value of NaN is NOT-A-NUMBER.
 
 ## 🔗 Follow Me 👇🏻
 
